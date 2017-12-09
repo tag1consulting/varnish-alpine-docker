@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.6
 MAINTAINER  Thiago Figueiro <thiagocsf@gmail.com>
 ENV REFRESHED_AT 2017-12-09
 ENV VARNISH_BACKEND_ADDRESS 192.168.1.65
