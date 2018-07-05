@@ -40,6 +40,7 @@ Build image locally:
 ```bash
 git clone git@github.com:thiagofigueiro/varnish-alpine-docker.git
 cd varnish-alpine-docker
+(checkout a version of vagrant-modules)
 docker build -t varnish-alpine-docker .
 ```
 
